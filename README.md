@@ -1,5 +1,5 @@
 
-Predictive Tower's of Hanoi
+Predictive Towers of Hanoi
 ====================
 
 python verion 2.7
