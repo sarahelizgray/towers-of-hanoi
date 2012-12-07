@@ -1,5 +1,7 @@
-#author Sarah Gray
-#python verion 2.7
+
+Predictive Tower's of Hanoi
+
+python verion 2.7
 
 
 This sample code is a console game of the "Towers of Hanoi" problem. For more on the principle behind the problem, see the Wikipedia article: http://en.wikipedia.org/wiki/Tower_of_Hanoi.
